@@ -1,4 +1,4 @@
-# Atividade 6 - Máquina de Karaokê
+# Atividade Máquina de Karaokê
 
 ## Descrição
 Esta aplicação em Java implementa uma "Máquina de Karaokê" que permite:
