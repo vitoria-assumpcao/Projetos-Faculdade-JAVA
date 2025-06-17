@@ -40,9 +40,6 @@ Imprimir todos os valores da LDE: |
 Pesquisar um valor na LDE         |
 --------------------------------- |
 
-markdown
-Copiar
-Editar
 
 ---
 
