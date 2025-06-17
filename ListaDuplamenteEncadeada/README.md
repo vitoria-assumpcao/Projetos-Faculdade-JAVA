@@ -32,18 +32,13 @@ A interface gráfica (GUI) fornece um menu interativo para a execução de todas
 3. **Interatividade:**
    - O programa apresenta um **menu gráfico com as seguintes opções:**
 
------------------------------------------------- |
-Por favor, escolha uma opção: |
-|
-
-Inserir um nodo: |
-
-Remover um nodo: |
-
+--------------------------------- |
+Por favor, escolha uma opção:     |
+Inserir um nodo:                  |
+Remover um nodo:                  |
 Imprimir todos os valores da LDE: |
-
-Pesquisar um valor na LDE |
------------------------------------------------- |
+Pesquisar um valor na LDE         |
+--------------------------------- |
 
 markdown
 Copiar
